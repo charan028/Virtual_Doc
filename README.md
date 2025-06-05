@@ -30,16 +30,6 @@
 
 ---
 
-## 🗂️ Project Structure
-virtual-doctor/
-├── app/
-│ ├── main.py # Gradio UI and app entry
-│ ├── openai_groq_client.py # GPT-4/Groq API integration
-│ ├── elevenlabs_voice.py # ElevenLabs TTS function
-│ ├── image_utils.py # Image pre-processing
-├── .env # API Keys and config
-├── requirements.txt
-└── README.md
 
 ### Create a `.env` file in the root:
 ```
