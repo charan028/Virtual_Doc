@@ -1,6 +1,6 @@
 # 🩺 Virtual Doctor – AI-Powered Health Assistant
 
-![Virtual Doctor Banner](https://your-image-link-here.com/banner.png)
+
 
 **Virtual Doctor** is an AI-powered healthcare assistant that allows users to upload medical images (like rashes, scans), describe symptoms, and receive intelligent diagnosis and voice responses. It combines the power of **OpenAI (via GroqCloud)** for natural language understanding and **ElevenLabs** for lifelike voice synthesis. Built with **Gradio** for an interactive web interface.
 
